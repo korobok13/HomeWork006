@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\bin\Debug\net6.0\HomeWork061.exe
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\bin\Debug\net6.0\HomeWork061.deps.json
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\bin\Debug\net6.0\HomeWork061.runtimeconfig.json
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\bin\Debug\net6.0\HomeWork061.dll
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\bin\Debug\net6.0\HomeWork061.pdb
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.AssemblyInfo.cs
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.dll
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\refint\HomeWork061.dll
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.pdb
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\HomeWork061.genruntimeconfig.cache
+C:\Users\Олег\Desktop\Geek\ДомЗад\DZ_Prog\DZ_Prog006\HomeWork061\obj\Debug\net6.0\ref\HomeWork061.dll
